@@ -1,0 +1,28 @@
+{
+  "name": "mdx-loader-primitives",
+  "version": "1.0.0",
+  "description": "Cross platform MDX Webpack loader",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macintoshhelper/mdx-loader-primitives.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macintoshhelper/mdx-loader-primitives/issues"
+  },
+  "homepage": "https://github.com/macintoshhelper/mdx-loader-primitives#readme",
+  "dependencies": {
+    "@mdx-js/mdx": "^1.5.7",
+    "@mdx-js/react": "^1.5.7",
+    "loader-utils": "1.2.3"
+  },
+  "optionalDependencies": {
+    "gray-matter": ">= 4"
+  }
+}
